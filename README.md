@@ -1,1 +1,1 @@
-# WorldWiseAPI
+# WorldWise-Map
