@@ -8,7 +8,7 @@ import {
 } from "react";
 
 // const BASE_URL = "http://localhost:5173";
-const BASE_URL = "https://vinayak9669.github.io/WorldWiseAPI/";
+const BASE_URL = "https://pushpraj733.github.io/WorldWiseAPI/";
 
 const CitiesContext = createContext();
 

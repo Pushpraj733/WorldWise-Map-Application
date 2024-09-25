@@ -7,8 +7,8 @@ import styles from "./Login.module.css";
 
 export default function Login() {
   // PRE-FILL FOR DEV PURPOSES
-  const [email, setEmail] = useState("vinay@fullstackDeveloper.com");
-  const [password, setPassword] = useState("qwerty");
+  const [email, setEmail] = useState("Pushpraj@fullstackDeveloper.com");
+  const [password, setPassword] = useState("pushpa");
 
   const { login, isAuthenticated } = useAuth();
   const navigate = useNavigate();
